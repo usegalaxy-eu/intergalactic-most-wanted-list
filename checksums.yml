@@ -1,0 +1,30 @@
+---
+miner:
+  sse:
+    "2(.1)":
+      severity: high
+      description: >
+        Highly used mining binary.
+        SSE means it needs the SSE instruction set.
+        Connects to mining pools using the STRATUM protocol.
+      checksums:
+        crc32: 4107437960
+        sha1: a0e9300df55d96d41323767b9ca939c8d887d30e
+tunnel:
+  ngrok:
+    v3:
+      severity: high
+      description: >
+        Reverse-proxy tool that is used for remote desktop tunneling
+      checksums:
+        crc32: 1638492706
+        sha1: e9201153b423ca7c5268afecb5487a1f9ed28081
+non_malicious_packages:
+  chromium:
+    beta_121.0.6167.57-1:
+      severity: medium
+      description: >
+        Added for testing purposes mainly
+      checksums:
+        crc32: 1183689884
+        sha1: 2209fbdacaa937502b7aa9e4d5babec20e56dfa2
