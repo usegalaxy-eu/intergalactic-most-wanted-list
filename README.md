@@ -15,7 +15,7 @@ class:
 ~~~
 Contributions are always welcome. Here is a more detailed explanation how the schema works.
 ### Class
-What purpose does it serve, e.g. mining, (port-)scanner, multi-purpose...  
+What purpose does it serve, e.g. mining, (port-)scanner, multi-purpose... . It can be an arbitrary yaml-compatible string.
 
 `nmap` would **not** be a `class`, because it is a specific tool for scanning and would be a `program` under the `scanning` class.
 
