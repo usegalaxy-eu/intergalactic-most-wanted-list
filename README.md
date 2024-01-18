@@ -28,7 +28,7 @@ Think of everything that you would version.
 
 ### Version
 
-The version of the program. (Not much more to say, I guess?)
+Ideally, a version corresponds to the version of your program. In case it does not have a version of you don't know, provide an arbitrary version for example `1`, `2` so we can distinguish different checksum from the `program`.
 ### Checksums
 Most important part first: the checksums.
 The WallE script is currently using `CRC-32` as fist level quick scan method and `SHA-1` for excluding false-positives. CRC-32 is known for having hash collisions more frequently than other algorithms.
