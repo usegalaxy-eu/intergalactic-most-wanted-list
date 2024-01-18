@@ -24,7 +24,6 @@ I did not come up with a better title for now. (Refused to call it 'tool')
 Feel free to rename this.  
 
 A `program` is every single unit of malware. In most cases it would be an executable file. But it can be a script, a binary, a package or a zip archive.  
-Think of everything that you would version.
 
 ### Version
 
