@@ -18,7 +18,7 @@ miner:
         CryptoNight ... bla bla ... miner.
         https://github.com/xmrig/xmrig
       checksums:
-        crc32: 23abd799
+        crc32: 598464409
         sha1: 3ff9c732c4e7482e456a60cf3eeeac1db8bc10aa
     "6.22.0":
       severity: high
@@ -27,7 +27,7 @@ miner:
         CryptoNight ... bla bla ... miner.
         https://github.com/xmrig/xmrig
       checksums:
-        crc32: f93ea3e2
+        crc32: 4181631970
         sha1: 3b27c895b6f9665f9287510207bfcdcb7fe6e059
 tunnel:
   ngrok:
