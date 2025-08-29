@@ -47,6 +47,15 @@ miner:
       checksums:
         crc32: 3847619152
         sha1: 2aa9b4d1bd2edd5d81bd9725e9318edaee67531f
+    "6.24.0":
+      severity: high
+      description: >
+        XMRig is a high performance, open source, cross platform RandomX, KawPow
+        CryptoNight ... bla bla ... miner.
+        https://github.com/xmrig/xmrig
+      checksums:
+        crc32: 2690647180
+        sha1: 53cfa587d5cfd7e5e193fc0b1a1575b2b0fefd33
 tunnel:
   ngrok:
     v3:
